@@ -1,5 +1,5 @@
 # OpenSSH key to JWKS 🌿
-A simple tool to generate a (https://datatracker.ietf.org/doc/html/rfc7517)[JSON Web Key Set (JWKS)] from a keyfile generated e.g. with `ssh-keygen`.
+A simple tool to generate a [JSON Web Key Set (JWKS)](https://datatracker.ietf.org/doc/html/rfc7517) from a keyfile generated e.g. with `ssh-keygen`.
 
 ## Usage
 Generate a key e.g. with `ssh-keygen`:
